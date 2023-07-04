@@ -1,4 +1,4 @@
-(arch## Project Details
+## Project Details
 For this project, I aim to understand why Bayesian Networks are not as utilized in Image Classification as they are in other fields of study, such as information retrieval and filtering.
 
 This project was made for the "Aprendizagem Automática Avançada" class, from FCUL, using Python.
@@ -34,5 +34,4 @@ Implementation of the CNN Algorithm visualized through a diagram (architecture):
 Implementation of the BCNN Algorithm visualized through a diagram (architecture):
 
 ![image](https://github.com/DiogoAraujoHUB/BayesianNetworksForImageClassification/assets/61624282/657c2022-8c17-4b65-b41c-5fa4401ead82)
-
 
